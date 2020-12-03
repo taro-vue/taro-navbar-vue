@@ -1,0 +1,7 @@
+.eachItem{
+  height: 80px;
+  line-height: 80px;
+  font-size: 28px;
+  padding: 10px 20px;
+  border-bottom: 1px solid #efefef;
+}
